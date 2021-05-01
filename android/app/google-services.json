@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1086557855434",
+    "firebase_url": "https://our-wall-mci-26.firebaseio.com",
+    "project_id": "our-wall-mci-26",
+    "storage_bucket": "our-wall-mci-26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086557855434:android:59586ec7b9f7c0edfb5e33",
+        "android_client_info": {
+          "package_name": "mci.project26.kronosapps.ourwall.family"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086557855434-r6ajjl1dg31o87en71vvfrlk1g05sv7p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mci.project26.kronosapps.ourwall.family",
+            "certificate_hash": "692c5080e78359467e4019caf462f7947f367a71"
+          }
+        },
+        {
+          "client_id": "1086557855434-uooj5fqod8b9kthe7i7a6ufcq9cicdks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhe_9CMk9t_sSojJQ--psnBTYeP4-VQhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086557855434-uooj5fqod8b9kthe7i7a6ufcq9cicdks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
